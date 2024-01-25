@@ -1,0 +1,6 @@
+C:\Users\Kluster\RiderProjects\DotnetFramework\FrameworkMVC\src\KlusterIO.Business\bin\Debug\KlusterIO.Business.dll
+C:\Users\Kluster\RiderProjects\DotnetFramework\FrameworkMVC\src\KlusterIO.Business\bin\Debug\KlusterIO.Business.pdb
+C:\Users\Kluster\RiderProjects\DotnetFramework\FrameworkMVC\src\KlusterIO.Business\obj\Debug\KlusterIO.Business.csproj.AssemblyReference.cache
+C:\Users\Kluster\RiderProjects\DotnetFramework\FrameworkMVC\src\KlusterIO.Business\obj\Debug\KlusterIO.Business.csproj.CoreCompileInputs.cache
+C:\Users\Kluster\RiderProjects\DotnetFramework\FrameworkMVC\src\KlusterIO.Business\obj\Debug\KlusterIO.Business.dll
+C:\Users\Kluster\RiderProjects\DotnetFramework\FrameworkMVC\src\KlusterIO.Business\obj\Debug\KlusterIO.Business.pdb

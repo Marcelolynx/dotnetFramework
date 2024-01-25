@@ -1,0 +1,14 @@
+C:\Users\Kluster\RiderProjects\DotnetFramework\FrameworkMVC\src\KlusterIO.Infra\bin\Debug\KlusterIO.Infra.dll.config
+C:\Users\Kluster\RiderProjects\DotnetFramework\FrameworkMVC\src\KlusterIO.Infra\bin\Debug\KlusterIO.Infra.dll
+C:\Users\Kluster\RiderProjects\DotnetFramework\FrameworkMVC\src\KlusterIO.Infra\bin\Debug\KlusterIO.Infra.pdb
+C:\Users\Kluster\RiderProjects\DotnetFramework\FrameworkMVC\src\KlusterIO.Infra\bin\Debug\EntityFramework.dll
+C:\Users\Kluster\RiderProjects\DotnetFramework\FrameworkMVC\src\KlusterIO.Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kluster\RiderProjects\DotnetFramework\FrameworkMVC\src\KlusterIO.Infra\bin\Debug\KlusterIO.Business.dll
+C:\Users\Kluster\RiderProjects\DotnetFramework\FrameworkMVC\src\KlusterIO.Infra\bin\Debug\KlusterIO.Business.pdb
+C:\Users\Kluster\RiderProjects\DotnetFramework\FrameworkMVC\src\KlusterIO.Infra\bin\Debug\EntityFramework.xml
+C:\Users\Kluster\RiderProjects\DotnetFramework\FrameworkMVC\src\KlusterIO.Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kluster\RiderProjects\DotnetFramework\FrameworkMVC\src\KlusterIO.Infra\obj\Debug\KlusterIO.Infra.csproj.AssemblyReference.cache
+C:\Users\Kluster\RiderProjects\DotnetFramework\FrameworkMVC\src\KlusterIO.Infra\obj\Debug\KlusterIO.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Kluster\RiderProjects\DotnetFramework\FrameworkMVC\src\KlusterIO.Infra\obj\Debug\KlusterIO.Infra.csproj.CopyComplete
+C:\Users\Kluster\RiderProjects\DotnetFramework\FrameworkMVC\src\KlusterIO.Infra\obj\Debug\KlusterIO.Infra.dll
+C:\Users\Kluster\RiderProjects\DotnetFramework\FrameworkMVC\src\KlusterIO.Infra\obj\Debug\KlusterIO.Infra.pdb
